@@ -1,0 +1,8 @@
+
+Time: 2023.04.11 14.04.08
+Domain:localhost
+New Exception:MySQL connection failed: Access denied for user 'root'@'localhost' (using password: YES)
+
+
+Cant move uploaded image for login form from admin panel. Function move_uploaded_file return false!
+Cant move uploaded image for login form from admin panel. Function move_uploaded_file return false!
